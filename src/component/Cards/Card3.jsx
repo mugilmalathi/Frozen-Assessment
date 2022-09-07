@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import "../Home/home.scss";
 import abibbev from "../Images/abibbev.jpg";
 import airtel from "../Images/airtel.png";
@@ -14,18 +14,52 @@ import timesinternet from "../Images/timesinternet.jpg";
 const Card3 = () => {
   return (
     <div className="card3">
-        <img src={abibbev} alt="" />
-        <img src={airtel} alt="" />
-        <img src={godrej} alt="" />
-        <img src={groupm} alt="" />
-        <img src={lenovo} alt="" />
-        <img src={makemytrip} alt="" />
-        <img src={nivea} alt="" />
-        <img src={novo} alt="" />
-        <img src={pernad} alt="" />
-        <img src={timesinternet} alt="" />
+      <div class="marquee-wrapper">
+        <div class="marquee">
+          <img src={abibbev} alt="" />
+          <img src={airtel} alt="" />
+          <img src={godrej} alt="" />
+          <img src={groupm} alt="" />
+          <img src={lenovo} alt="" />
+          <img src={makemytrip} alt="" />
+          <img src={nivea} alt="" />
+          <img src={novo} alt="" />
+          <img src={pernad} alt="" />
+          <img src={timesinternet} alt="" />
+          <img src={abibbev} alt="" />
+          <img src={airtel} alt="" />
+          <img src={godrej} alt="" />
+          <img src={groupm} alt="" />
+          <img src={lenovo} alt="" />
+          <img src={makemytrip} alt="" />
+          <img src={nivea} alt="" />
+          <img src={novo} alt="" />
+          <img src={pernad} alt="" />
+          <img src={timesinternet} alt="" />
+          <img src={abibbev} alt="" />
+          <img src={airtel} alt="" />
+          <img src={godrej} alt="" />
+          <img src={groupm} alt="" />
+          <img src={lenovo} alt="" />
+          <img src={makemytrip} alt="" />
+          <img src={nivea} alt="" />
+          <img src={novo} alt="" />
+          <img src={pernad} alt="" />
+          <img src={timesinternet} alt="" />
+          <img src={abibbev} alt="" />
+          <img src={airtel} alt="" />
+          <img src={godrej} alt="" />
+          <img src={groupm} alt="" />
+          <img src={lenovo} alt="" />
+          <img src={makemytrip} alt="" />
+          <img src={nivea} alt="" />
+          <img src={novo} alt="" />
+          <img src={pernad} alt="" />
+          <img src={timesinternet} alt="" />
+        </div>
       </div>
-  )
-}
+    </div>
+  );
+};
 
-export default Card3
+export default Card3;

@@ -22,8 +22,8 @@ const Navbar = () => {
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown" 
         style={{
-          border:"1px solid red",
-          
+          // border:"1px solid red",
+          paddingLeft:"400px"
         }}
         >
           <ul class="navbar-nav">
@@ -66,7 +66,7 @@ const Navbar = () => {
               </a>
             </li>
           </ul>
-          <button className="schedule">Schedule Demo</button>
+          <button style={{marginLeft:"400px"}} className="schedule">Schedule Demo</button>
         </div>
       </div>
     </nav>
