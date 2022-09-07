@@ -9,6 +9,7 @@ import Card5 from "../Cards/Card5";
 import Card6 from "../Cards/Card6";
 import Card7 from "../Cards/Card7";
 import Card8 from "../Cards/Card8";
+import Card9 from "../Cards/Card9";
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <Card6 />
       <Card7 />
       <Card8 />
+      <Card9 />
     </div>
   );
 };
