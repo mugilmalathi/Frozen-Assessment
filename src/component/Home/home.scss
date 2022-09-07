@@ -306,3 +306,36 @@
     width: 50%;
     margin-left: 40%;
 }
+
+.card10{
+    width: 57%;
+    margin: auto;
+    height: 45vh;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    // border: 1px solid red;
+}
+
+.card10 > div{
+    // border: 1px solid teal;
+    cursor: pointer;
+}
+
+.blogpic > img{
+    width: 100%;
+}
+.blogdatediv{
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    color: gray;
+    padding: 2%;
+}
+.blogcont{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 2%;
+}
