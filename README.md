@@ -19,24 +19,15 @@
   Snapshots:
   
 Navbar:
-![](/MartImages/mart1.png)
-Landing Page:
-![](/MartImages/mart2.png)
- Footer:
- ![](/MartImages/mart3.png)
-  Signup Page:
-  ![](/MartImages/mart4.png)
-   SignIn Page:
-   ![](/MartImages/mart5.png)
-    Product Page:
-    ![](/MartImages/mart6.png)
-     Product Features Page:
-     ![](/MartImages/mart7.png)
-      Cart Page:
-      ![](/MartImages/mart8.png)
-       Checkout Page:
-       ![](/MartImages/mart9.png)
-        Payment Page:
-        ![](/MartImages/mart10.png)
-         Payment Successful Page:
-         ![](/MartImages/mart11.png)
+![](/Screenshots/navbar.png)
+Company Logo slider:
+![](/Screenshots/company.png)
+ Card1:
+ ![](/Screenshots/card1.png)
+Card2:
+  ![](/Screenshots/card2.png)
+Blog:
+   ![](/Screenshots/blog.png)
+Fooer:
+    ![](/Screenshots/footer.png)
+    
